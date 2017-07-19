@@ -1,0 +1,105 @@
+/*Background photo*/
+.navbar-brand{
+    padding: 15px 13px !important;
+}
+#back{
+	background-color: #606064;
+	
+}
+#subback{
+	background-color: #68686d;
+}
+.zero ul li{
+    padding: 8px;
+    background-color: #b8212e;
+    border-right: 1px solid #9b1119;
+    padding-right: 40px;
+}
+.zero ul li a:hover{
+    background-color: transparent;
+
+}
+.zero ul li a{
+    color: #e7b7aa;
+    
+}
+/*Navigation*/
+.title{
+	padding: 16px;
+	background-color: #b8212e;
+	color: white;
+	border-right: 1px solid #9b1119;
+}
+.logo img{
+	
+}
+/*Section one*/
+.account p{
+   font-family: sans-serif;
+    background-color: #e12c45;
+    display: -webkit-inline-box;
+    color: white;
+    font-size: 40px;
+    letter-spacing: 14px;
+    margin-top: 20px;
+}
+
+.act h4{
+	color: white;
+	font-size: 80px;
+    padding: 0px;
+    margin: -27px;
+    font-weight: bold;
+}
+
+.proc h4{
+	font-size: 45px;
+    letter-spacing: 45px;
+    color: #d1d3d4;
+    padding-left: 35px;
+}
+.statement{
+    margin-top: 40px;
+	font-size: 25px;
+    color: #ffffff;
+}
+.substatement{
+	margin-top: -21px;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+}
+/*SECTION TWO*/
+.step h5{
+        font-weight: 700;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 17px;
+    color: #e6e7e8;
+}
+.profile{
+	background-color: #f1f1f2;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: -13px;
+}
+.profile h3{
+    	margin-top: 40px;
+    }
+  /*Section five*/
+.five{
+    background-image: url('../img/6.png');
+    background-size: 100%;
+    padding: 55px;
+    background-color: #606064;
+    background-repeat: no-repeat;
+
+}
+/*Section seven*/
+.seven{
+    background-image: url('../img/city.jpg');
+    background-size: cover;
+}
+.seven ul li{
+        display: -webkit-box;
+}

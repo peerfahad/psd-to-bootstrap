@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-basic-template",
+  "version": "0.0.1",
+  "authors": [
+     "Bass Jobsen <bass@w3masters.nl> (http://bassjobsen.weblogs.fm)"
+  ],
+  "description": "Basic template for a new Bootstap project.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://github.com/bassjobsen/bootstrap-basic-template/",
+  "dependencies": {
+    "bootstrap": "4.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}

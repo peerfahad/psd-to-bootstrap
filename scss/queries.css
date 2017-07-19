@@ -1,0 +1,39 @@
+
+ 
+@media screen and (max-width:532px){
+    .act h4{
+        margin: 0px;
+        font-size: 30px;
+    }
+ }
+   @media screen and (max-width:296px){
+      .navbar-brand{
+           padding: 15px 0px 0px 14px;
+    }
+ }
+
+ @media screen and (max-width:599px){
+    .proc h4{
+        font-size: 20px;
+        letter-spacing: 10px;
+    }
+ }
+  @media screen and (max-width:599px){
+    .account p{
+        font-size: 25px;
+        letter-spacing: 12px;
+        
+    }
+ }
+   @media screen and (max-width:1200px){
+    .zero ul li {
+        padding-right: 0px;    
+        font-size: 9px;    
+    }
+ }
+    @media screen and (max-width:990px){
+    .profile{
+        margin-left: 0px;   
+    }
+ }
+  
